@@ -1,0 +1,18 @@
+{
+  "registerWithValidData":  {
+    "firstName":"Rashed",
+    "lastName":"rion",
+    "email":"rashedrion78@gmail.com",    
+    "password":"rion1234"   
+    
+    },
+
+    "registerWithinValidData": {
+        "firstName":"Rashed",
+        "lastName":"rion",
+        "email":"rashedrion01@gmail.com",
+        "invalidEmail":"rashedrion.gmail.com",    
+        "password":"rion1234", 
+        "confirmpassword":"rion123"         
+        }
+    }

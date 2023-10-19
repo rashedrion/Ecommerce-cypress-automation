@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-cypress-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashedrion/Ecommerce-cypress-automation.git"
+  },
+  "author": "rashed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashedrion/Ecommerce-cypress-automation/issues"
+  },
+  "homepage": "https://github.com/rashedrion/Ecommerce-cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^13.3.0",
+    "cypress-mochawesome-reporter": "^3.6.0"
+  }
+}
